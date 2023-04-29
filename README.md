@@ -152,7 +152,7 @@ If you like this project, kindly leave a comment below and share it with someone
 I'm grateful to microverse for giving me every opportunity to grow into my full potential
 
 
-## 📝 License <a name="mit"></a>
+## 📝 License <a name="[mit](https://github.com/mar4444/My-portofolio/blob/mobile-app/mit.md)"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
