@@ -152,7 +152,7 @@ If you like this project, kindly leave a comment below and share it with someone
 I'm grateful to microverse for giving me every opportunity to grow into my full potential
 
 
-## 📝 License <a name="license"></a>
+## 📝 License <a name="mit"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
